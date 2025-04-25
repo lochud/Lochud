@@ -1,4 +1,4 @@
-## Hi there 👋
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/LocHUD/main/LocHUD_Loading.lua"))()## Hi there 👋
 
 <!--
 **lochud/Lochud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
